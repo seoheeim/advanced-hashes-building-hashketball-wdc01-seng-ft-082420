@@ -1,6 +1,7 @@
 # Write your code here!
 def game_hash()
  data = 
+<<<<<<< HEAD
   {
   :home => {:team_name =>{}, 
             :colors => [], 
@@ -21,4 +22,8 @@ def game_hash()
               { :player_name => "Kemba Walker", :number => 33, :shoe => 15, :points => 6, :rebounds => 12, :assists => 12, :steals => 7, :blocks => 5, :slam_dunks => 12 }
               ] }
   }
+=======
+  {:home => {:Team_name =>{}, :Colors}, 
+  :away => {}}
+>>>>>>> 73f0d76d567725428ce6dcad0dcadac5639fa9b7
 end
